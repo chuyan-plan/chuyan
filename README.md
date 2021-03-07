@@ -1,2 +1,3 @@
 # chuyan
 mysql  code
+select  *；
